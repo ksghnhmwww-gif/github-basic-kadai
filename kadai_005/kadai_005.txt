@@ -13,10 +13,6 @@ $ git commit -m "hello_world.txtを追加"
  1 file changed, 1 insertion(+)
  create mode 100644 hello_world.txt
 
-$ echo "こんにちわ、世界！" > hello_world.txt
-
-$ echo "Hello, world!" > hello_world.txt
-
 $ echo "こんにちわ、世界！" >> hello_world.txt
 
 $ git add .
